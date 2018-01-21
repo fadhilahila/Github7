@@ -21,6 +21,8 @@ public class Latihan2 {
 System.out.print("Masukkan bilangan pelanggan=");
 bilpelanggan=input.nextInt();
 
+System.out.print("Masukkan bilangan pelanggan=");
+
 if(bilpelanggan ==0){
     bonus=0;
     
